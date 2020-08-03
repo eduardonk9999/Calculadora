@@ -5,7 +5,7 @@
 <p align="center">Calculadora classíca, nesse projeto usei bastante recursos do JavaScript.</p>
 <p align="center">Esse projeto é um exercício de do curso:
 <br/>
-<a href="https://www.udemy.com/course/javascript-curso-completo/" target="_blank">The Complete JavaScript Course 2020: Build Real Projects!</a>
+<a href="https://www.udemy.com/course/javascript-curso-completo/" target="_blank">HCODE JavaScript - Curso COMPLETO</a>
  </p>
 
  <h4 align="center"> 
